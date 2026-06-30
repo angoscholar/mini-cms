@@ -1,21 +1,17 @@
-# mini-cms Estrutura 
-mini-cms/
-├── frontend/                  ← Vercel
-│   ├── index.html
-│   ├── post.html
-│   ├── style.css
-│   └── script.js
-│
-└── backend/                   ← Laravel
-    ├── app/
-    │   └── Http/
-    │       └── Controllers/
-    │           └── PostController.php
-    │
-    ├── routes/
-    │   └── api.php
-    │
-    ├── database/
-    │   └── migrations/
-    │
-    └── ...
+# Mini CMS
+
+Projeto de estudos utilizando:
+
+- Front-end HTML/CSS/JavaScript
+- Laravel API
+- MySQL
+- Railway
+- Vercel
+
+Arquitetura
+
+Frontend → Vercel
+
+Backend → Railway
+
+Banco → MySQL
